@@ -9,3 +9,5 @@
 
 
 ![Barbearia3](https://github.com/vivyhv/Barbearia_Alura/assets/91763019/3ed15cf2-ca30-4421-a2ab-592a01f87a6a)
+
+![barbeariacelular](https://github.com/vivyhv/Barbearia_Alura/assets/91763019/1e1cb65b-af10-4abd-b20e-c88d49a649b4)
